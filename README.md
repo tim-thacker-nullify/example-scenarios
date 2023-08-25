@@ -137,3 +137,4 @@ NOTE: This example currently only works with Intel/AMD (not ARM including Apple 
 
 #### security-playground-restricted
 This is the only example that still works with sysdig-playground-restricted as you don't need to be root to download and run the crypto miner. It can, however, be blocked by a Sysdig Container Drift Policy set to enforce/prevent the drift.
+
